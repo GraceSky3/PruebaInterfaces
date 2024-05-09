@@ -17,7 +17,7 @@ public class Conexion
     private Connection conexion;
     private String bbdd = "jdbc:hsqldb:hsql://localhost/GMGMULTIVERSO/";
     private String usuario = "SA";
-    private String contrasena = "";
+    private String contrasena = "SA";
     
     /*
     public Conexion(String bbdd, String usuario, String contrasena) throws ClassNotFoundException {

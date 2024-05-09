@@ -17,8 +17,8 @@ public class GmgMultiverso
     public static void main(String[] args) 
     {
         // TODO code application logic here
-        PrincipalPrueba pp = new PrincipalPrueba();
-        pp.setVisible(true);
+        PrincipalCliente pc = new PrincipalCliente();
+        pc.setVisible(true);
     }
     
 }
